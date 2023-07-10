@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akankshmishra
 - 👀 I’m interested in Data Analyst,Data Science,Business Analyst Job
-- 🌱 I’m currently learning SQL,Python,ML,R,Tableau with simplilearn
+- 🌱 I’m currently learning SQL,Python,ML,R,Tableau with simplilearn Data Scientist Master's Program in collaboration with IBM
 - 💞️ I’m looking to collaborate
 - 📫 Reach me at akankshamishra863@gmail.com
 
